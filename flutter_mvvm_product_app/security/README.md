@@ -1,0 +1,6 @@
+- Secure Storage
+- HTTPS
+- Certificate Pinning
+- Input Validation
+- Dependency Audit
+- Code Obfuscation
